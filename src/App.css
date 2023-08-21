@@ -1,0 +1,19 @@
+.app {
+  text-align: center;
+}
+
+.hand-evaluator {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.result {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.winner {
+  color: green;
+}
